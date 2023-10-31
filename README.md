@@ -12,16 +12,16 @@ Make a game similar to Infinity Loop: Relaxing Puzzle on google play
 
   - Circle with one connector
 
-    ![Rhombus](.\docs\images\circle.png)
+    ![Rhombus](./docs/images/circle.png)
 
   - Rhombus with four connectors
 
-    ![Rhombus](.\docs\images\rhombus.png)
+    ![Rhombus](./docs/images/rhombus.png)
 
   - Half rhombus with three connectors
 
-    ![Rhombus](.\docs\images\half-rhombus.png)
+    ![Rhombus](./docs/images/half-rhombus.png)
 
   - One-quarter rhombus with two connectors
 
-    ![Rhombus](.\docs\images\one-quarter-rhombus.png)
+    ![Rhombus](./docs/images/one-quarter-rhombus.png)
